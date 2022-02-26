@@ -1,0 +1,12 @@
+.wrapper {
+  text-align: center;
+}
+
+.wrapper h1 {
+  font-size: 5rem;
+  margin: 0;
+}
+
+.wrapper p {
+  font-size: 2rem;
+}
