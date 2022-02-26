@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/pages/page-not-found.module.css"],"names":[],"mappings":"AAAA,+BACE,iBACF,CAEA,kCACE,cAAe,CACf,QACF,CAEA,iCACE,cACF","file":"6.d34ccca4.chunk.css","sourcesContent":[".wrapper {\r\n  text-align: center;\r\n}\r\n\r\n.wrapper h1 {\r\n  font-size: 5rem;\r\n  margin: 0;\r\n}\r\n\r\n.wrapper p {\r\n  font-size: 2rem;\r\n}"]}

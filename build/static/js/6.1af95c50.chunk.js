@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-complete-guide"]=this["webpackJsonpreact-complete-guide"]||[]).push([[6],{53:function(e,t,c){e.exports={wrapper:"page-not-found_wrapper__3yYKk"}},55:function(e,t,c){"use strict";c.r(t);c(0);var n=c(53),r=c.n(n),p=c(1);t.default=function(){return Object(p.jsxs)("div",{className:r.a.wrapper,children:[Object(p.jsx)("h1",{children:"404"}),Object(p.jsx)("p",{children:"Page not found"})]})}}}]);
+//# sourceMappingURL=6.1af95c50.chunk.js.map
